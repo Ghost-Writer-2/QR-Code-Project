@@ -67,4 +67,4 @@ I want to improve my responsive layout skills, my JavaScript knowledge and learn
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ghost-Writer-2)
+- Frontend Mentor - [@Ghost-writer-2](https://www.frontendmentor.io/profile/Ghost-Writer-2)
