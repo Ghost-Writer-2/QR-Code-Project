@@ -1,0 +1,68 @@
+body {
+  background-color:  hsl(212, 45%, 89%);
+}
+
+.outer {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin: auto;
+  margin-top: 90px;
+  margin-bottom: 50px;
+  width:max(15rem, 20rem);
+  height: auto;
+  align-items: center;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+
+.qr-code {
+  margin-top: 10px;
+  width: 95%;
+  height: 100%;
+}
+
+#qr-code {
+  padding: 5px;
+  display: block;
+  margin: auto;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 15px;
+  object-fit: contain;
+}
+
+.text {
+  padding: 0px 15px;
+  height: 100%;
+  width: 95%;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+p,
+h1 {
+  color: hsl(218, 44%, 22%);
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
+  font-size: 23px;
+}
+
+p {
+  color: hsl(216, 15%, 48%);
+  font-weight: 400;
+  font-size: 15px;
+}
+.attribution {
+  color: rgb(57, 52, 52);
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
