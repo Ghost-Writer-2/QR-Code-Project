@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   background-color: white;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 10px;
   width:max(15rem, 20rem);
   height: auto;
@@ -40,10 +40,11 @@ body {
   width: 95%;
   overflow: auto;
   box-sizing: border-box;
+  padding-bottom: 50px;
 }
 
 p,
-h1 {
+h2 {
   color: hsl(218, 44%, 22%);
   font-family: "Outfit", sans-serif;
   font-weight: 900;
@@ -53,6 +54,7 @@ h1 {
 }
 
 p {
+  margin-top: 30px;
   color: hsl(216, 15%, 48%);
   font-weight: 400;
   font-size: 15px;
