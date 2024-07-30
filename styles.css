@@ -1,6 +1,5 @@
 body {
   background-color:  hsl(212, 45%, 89%);
-  height: 100vh;
 }
 
 .outer {
@@ -40,7 +39,7 @@ body {
   width: 95%;
   overflow: auto;
   box-sizing: border-box;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 p,
@@ -62,7 +61,7 @@ p {
 .attribution {
   color: rgb(57, 52, 52);
   font-size: 11px;
- text-align: center;
+  text-align: center;
 }
 
 .attribution a {
