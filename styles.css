@@ -1,5 +1,6 @@
 body {
   background-color:  hsl(212, 45%, 89%);
+  height: 100vh;
 }
 
 .outer {
@@ -7,7 +8,7 @@ body {
   flex-direction: column;
   background-color: white;
   margin: auto;
-  margin-top: 120px;
+  margin-top: 50px;
   margin-bottom: 10px;
   width:max(15rem, 20rem);
   height: auto;
@@ -44,7 +45,7 @@ body {
 p,
 h1 {
   color: hsl(218, 44%, 22%);
-  font-family: "Roboto", sans-serif;
+  font-family: "Outfit", sans-serif;
   font-weight: 900;
   font-style: normal;
   text-align: center;
@@ -59,10 +60,14 @@ p {
 .attribution {
   color: rgb(57, 52, 52);
   font-size: 11px;
-  text-align: center;
+ text-align: center;
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-  text-decoration: none;
 }
+
+/* footer {
+  position: absolute;
+  bottom: 0.5rem;
+} */
