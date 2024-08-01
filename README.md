@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Code](https://github.com/Ghost-Writer-2/Frontend_Mentor_Projects.git)
+- Solution URL: [Code](https://github.com/Ghost-Writer-2/QR-Code-Project.git)
 - Live Site URL: [Live Preview](https://ghost-writer-2.github.io/QR-Code-Project/)
 
 
